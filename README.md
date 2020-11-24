@@ -19,7 +19,7 @@
 
 <li> Princípio aberto/fechado. Você pode introduzir novos proxies sem mudar o serviço ou clientes. </li>
 </ul>
-## Desvantagens 
+<h2> Desvantagens </h2>
 <ul>
 <li> O código pode ficar mais complicado uma vez que você precisa introduzir uma série de novas classes. </li>
 
