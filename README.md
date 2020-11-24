@@ -18,7 +18,7 @@
 <li> O proxy trabalha até mesmo se o objeto do serviço ainda não está pronto ou disponível. </li>
 
 <li> Princípio aberto/fechado. Você pode introduzir novos proxies sem mudar o serviço ou clientes. </li>
-
+</ul>
 ## Desvantagens 
 <ul>
 <li> O código pode ficar mais complicado uma vez que você precisa introduzir uma série de novas classes. </li>
