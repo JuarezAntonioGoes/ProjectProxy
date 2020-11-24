@@ -1,10 +1,10 @@
 # ProxyPattern 
 
-#### Padrão de projeto que fornece um substituto ou espaço reservado para outro objeto, controla o acesso ao objeto original podendo realizar alterações antes ou depois do pedido chegar ao objeto original. 
+<p> Padrão de projeto que fornece um substituto ou espaço reservado para outro objeto, controla o acesso ao objeto original podendo realizar alterações antes ou depois do pedido chegar ao objeto original. </p>
 
 ## Como fazer? 
 
-#### No padrão proxy você pode criar uma nova classe usando as mesmas interfaces do objeto do serviço original. Sua aplicação passa o novo objeto proxy para os clientes do objeto original  ao receber uma solicitação o proxy cria um objeto do serviço real e delega todo o serviço a ele. 
+<p> No padrão proxy você pode criar uma nova classe usando as mesmas interfaces do objeto do serviço original. Sua aplicação passa o novo objeto proxy para os clientes do objeto original  ao receber uma solicitação o proxy cria um objeto do serviço real e delega todo o serviço a ele. </p>
 
  
 
