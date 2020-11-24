@@ -10,16 +10,18 @@
 
 ## Vantagens 
 
-#### Você pode controlar o objeto do serviço sem os clientes ficarem sabendo. 
+<ul>
+<li> Você pode controlar o objeto do serviço sem os clientes ficarem sabendo. </li> 
 
-#### Você pode gerenciar o ciclo de vida de um objeto do serviço quando os clientes não se importam mais com ele. 
+<li> Você pode gerenciar o ciclo de vida de um objeto do serviço quando os clientes não se importam mais com ele. </li>
 
-#### O proxy trabalha até mesmo se o objeto do serviço ainda não está pronto ou disponível. 
+<li> O proxy trabalha até mesmo se o objeto do serviço ainda não está pronto ou disponível. </li>
 
-#### Princípio aberto/fechado. Você pode introduzir novos proxies sem mudar o serviço ou clientes. 
+<li> Princípio aberto/fechado. Você pode introduzir novos proxies sem mudar o serviço ou clientes. </li>
 
-#### Desvantagens 
+## Desvantagens 
+<ul>
+<li> O código pode ficar mais complicado uma vez que você precisa introduzir uma série de novas classes. </li>
 
-#### O código pode ficar mais complicado uma vez que você precisa introduzir uma série de novas classes. 
-
-#### A resposta de um serviço pode ter atrasos. 
+<li> A resposta de um serviço pode ter atrasos. </li>
+</ul>
